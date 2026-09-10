@@ -7,6 +7,11 @@ Once it is running, you can optionally install it to internal storage so it boot
 ## Steps
 1. Download `armada-YYYYMMDD.img.gz` from the latest [GitHub Release](https://github.com/armada-os/armada/releases/latest)
 
+   !!! note
+   
+        The five most recent preview images are also available [here](https://downloads.armadaos.dev/preview/).
+        They may be flashed in the same way as in the following steps.
+
 2. Flash the downloaded image to a 64GB or larger SD card (A2 speed for best results).
 
     !!! note
@@ -18,7 +23,7 @@ Once it is running, you can optionally install it to internal storage so it boot
     - Insert the SD card, boot into Android, and copy the `rocknix_abl` folder to
       the root of your internal storage.
 
-    - Identify your SoC from [Supported Devices](../devices/supported-devices.md) (`SM8550`, `SM8650`, or
+    - Identify your SoC from [Supported Devices](../devices/supported-devices.md) (`SM8250`, `SM8550`, `SM8650`, or
       `SM8750`).
 
         !!! warning
