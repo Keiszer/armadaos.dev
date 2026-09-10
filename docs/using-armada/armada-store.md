@@ -26,7 +26,3 @@ If an entry has been installed, it will have one of the following statuses:
 !!! note 
 
     If an application has been installed, clicking on its entry will allow you to directly add the application to Steam.
-
-!!! note 
-
-    If an application has been installed, clicking on its entry will allow you to directly add the application to Steam.
