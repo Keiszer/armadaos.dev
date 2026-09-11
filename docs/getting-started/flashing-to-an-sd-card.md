@@ -7,11 +7,6 @@ Once it is running, you can optionally install it to internal storage so it boot
 ## Steps
 1. Download `armada-YYYYMMDD.img.gz` from the latest [GitHub Release](https://github.com/armada-os/armada/releases/latest)
 
-   !!! note
-   
-        The five most recent preview images are also available [here](https://downloads.armadaos.dev/preview/).
-        They may be flashed in the same way as in the following steps.
-
 2. Flash the downloaded image to a 64GB or larger SD card (A2 speed for best results).
 
     !!! note
@@ -68,3 +63,7 @@ Once it is running, you can optionally install it to internal storage so it boot
     you may see another 60 seconds of black before the login screen appears.
 
 Proceed to [Install to Internal Storage](./install-to-internal-storage.md) if you would like.
+
+!!! note
+
+    If you are an experienced user and know your way around Linux, you may want to try the bleeding-edge of features offered by Armada. Preview OS images are also available, which offer new features at the cost of system stability. See **[Preview Images](./preview-images.md)**.
