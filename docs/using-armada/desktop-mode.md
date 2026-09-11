@@ -6,7 +6,3 @@ desktop. The **Bazaar** app store and the **Armada Installer**
 Additionally, Armada supports an alternative KDE Plasma Mobile for a more touch-
 friendly environment. This may be toggled in the **Settings** tab of
 **[Armada Control](./armada-control.md)**.
-
-Additionally, Armada supports an alternative KDE Plasma Mobile for a more touch-
-friendly environment. This may be toggled in the **Settings** tab of
-**[Armada Control](./armada-control.md)**.

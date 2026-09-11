@@ -2,7 +2,7 @@
 
 !!! warning
 
-     Preview images are experimental and can be highly unstable and may result in a bricked OS, which will need to be recovered. Only download preview images if you know what you are doing and can work around an unstable system.
+     Preview images are experimental and can be highly unstable. Only download preview images if you know what you are doing and are comfortable recovering an unstable system.
 
 Alongside the more stable Beta images, Armada OS offers Preview images which lie at the bleeding-edge of development. The preview update channel receives a new build with every commit made to the GitHub repository, which may offer more features or device support.
 
